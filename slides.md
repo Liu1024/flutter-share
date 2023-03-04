@@ -23,7 +23,7 @@ drawings:
 css: unocss
 ---
 
-# Useful flutter plugins 1
+# Useful flutter plugins
 
 2023-3-7
 
