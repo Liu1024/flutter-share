@@ -23,7 +23,7 @@ drawings:
 css: unocss
 ---
 
-# Welcome to Slidev
+# Interesting flutter plugins
 
 Presentation slides for developers
 
